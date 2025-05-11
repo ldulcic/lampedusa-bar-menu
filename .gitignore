@@ -29,6 +29,7 @@ out/
 .env
 .env.local
 .env.*.local
+!.env.example
 
 # Temporary files
 *.tmp
